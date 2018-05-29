@@ -1,5 +1,6 @@
 
 
+#include <vector>
 #include "mime_types.hpp"
 
 namespace http {
